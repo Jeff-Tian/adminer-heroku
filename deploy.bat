@@ -1,0 +1,1 @@
+heroku container:push web -a nameless-depths-40663 && heroku container:release web -a nameless-depths-40663 && heroku open -a nameless-depths-40663

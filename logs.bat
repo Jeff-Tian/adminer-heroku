@@ -1,0 +1,1 @@
+heroku logs --tail -a nameless-depths-40663
